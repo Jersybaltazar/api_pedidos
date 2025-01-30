@@ -14,7 +14,7 @@ API REST para gestión de pedidos con autenticación JWT. Permite a los usuarios
 1. Clonar repositorio:
 ```bash
 git clone [https://github.com/Jersybaltazar/api_pedidos.git]
-cd APIS
+cd api_pedidos
 ```
 
 2. Instalar dependencias:
