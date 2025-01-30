@@ -1,0 +1,16 @@
+{
+  "compilerOptions": {
+    "target": "ES6",                                                               
+    "strict": true,                                      
+    "module": "CommonJS",
+    "outDir": "./dist",
+    "esModuleInterop": true,
+    "skipLibCheck": true,
+    "forceConsistentCasingInFileNames": true,
+    "rootDir": "./src",
+    "typeRoots": ["./node_modules/@types", "./src/types"],
+    "types": ["node", "express-validator"]                          
+  },
+  "include": ["src/**/*.ts"],
+  "exclude": ["node_modules"]
+}
